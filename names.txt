@@ -1,0 +1,39 @@
+Fund,Strategy,June,2026 YTD,AUM ($B)
+TAL China Focus,Equity Long Short,3.4%,95.1%,9.3**
+Whale Rock,Equity Long Short,9.2%,72.9%,-
+Keystone,Asia Focused Global Long-Short,8.9%,62.7%,5.9
+CastleKnight,Event Driven,8.1%,42.3%,3.8
+Heliarc Opportunities,Event Driven,2.7%,29.1%,1.8*
+Fenghe Asia,Asia Focused Long-Short,2.95%,29.2%,11.6
+Quantedge,Quant,1.6%,24.7%,6.3
+Coatue,Equity,4.7%,24.5%,-
+Polymer Asia,Multistrategy,0.9%,19.8%,6*
+ARP Public Opportunities,Macro,1.3%,19.5%,1.25
+QRT Torus,Multistrategy,7.8%,18.6%,-
+Pinpoint Multi-Strategy,Multistrategy,4.4%,16.9%,1.5
+Dymon,Multistrategy,3.7%,15%,8.8
+Citadel Tactical Trading,Multistrategy,3.1%,14.3%,-
+Graham Quant Macro,Macro-Quantitative,0.2%,12.6%,-
+Schonfeld Equities,Equity,3.6%,12.3%,-
+Citadel Equities,Multistrategy,3.3%,11.2%,-
+Brummer Multi-Strategy,Multistrategy,1.3%,10.9%,3.85
+Millennium,Multistrategy,4.1%,10.5%,69
+Pharo Macro,Macro,1.7%,9.7%,2.9
+Schonfeld Partners,Multistrategy,2.5%,8.4%,22*
+Shiprock,Distressed,-0.68%,8.4%,1.33
+Man Strategies 1783,Multistrategy,2.2%,7.8%,-
+Sculptor,Multistrategy,5.2%,8%,9
+North Rock,Multimanager Equity,1.65%,6.9%,6.5
+LMR,Multistrategy,2.6%,6.6%,16*
+KL Special Opportunities,Event-Driven,-0.02%,6%,2.9
+Centiva,Multistrategy,0.9%,6.1%,-
+RBC BlueBay EM Credit Alpha,Credit,0.5%,8.1%,1.1
+Citadel Wellington,Multistrategy,1.8%,5.7%,60+
+Wolverine,Relative Value,0.7%,5.5%,6.1
+Blackrock STA,Multistrategy - Quant,0.2%,5.48%,9
+Winton Multi Strat,Multistrategy - Quant,-0.6%,5.1%,5
+Jain Global,Multistrategy,3.2%,3.9%,6
+Anson,Equity,5.7%,4.7%,1.5
+Summit T8,Multistrategy - Equity,3%,2.5%,3.5
+Citadel G10,Fixed Income,1.7%,NA,-
+Keyla,Macro,1.45%,-3.1%,9
